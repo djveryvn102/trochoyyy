@@ -1,6 +1,7 @@
 body{font-family: Open Sans, Tahoma, Arial, sans-serif !important;line-height:25px;font-size:14px;}
 h1{color:#4FAFC4;line-height:35px;font-size:20px;text-transform: uppercase;}
 h2{color:#aaa;line-height: 30px;font-size:15px;margin-bottom:20px;}
+h3{color:#DDDDDD;line-height: 25px;font-size:15px;margin-bottom:20px;}
 p{margin:5px 0 10px 0;}
 a{text-decoration: none;color:#fff;}
 a:hover, a:active{text-shadow: 0 1px 15px #111;}
